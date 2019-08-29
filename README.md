@@ -16,7 +16,7 @@ $ vue create client NOTE: Manual config <br>
 - config for Babel In package.json <br>
 
 $ cd client <br>
-$ npm install axios@0.18.0 --save <br>
+$ npm install axios@0.18.1 --save <br>
 $ npm install bootstrap@4.3.1 --save <br>
 $ npm install bootstrap-vue@2.0.0-rc.19 --save <br>
 $ npm run serve
