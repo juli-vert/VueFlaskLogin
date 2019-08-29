@@ -2,15 +2,12 @@
 How to use Flask-login with VueJS for Authorization
 
 #python requirements
+-Flask
+-flask-Login
+-flask-Cors
 
-Flask
-
-flask-Login
-
-flask-Cors
-
-#Vue requirements
-$ npm install -g @vue/cli@3.7.0 
+#Vue requirements<br>
+$ npm install -g @vue/cli@3.7.0 <br>
 $ vue create client NOTE: Manual config 
 - with - Babel, Router, Linter 
 - History mode for router 
