@@ -2,8 +2,11 @@
 How to use Flask-login with VueJS for Authorization
 
 #python requirements
+
 Flask
+
 flask-Login
+
 flask-Cors
 
 #Vue requirements
