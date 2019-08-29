@@ -14,6 +14,7 @@ $ vue create client NOTE: Manual config
 - Linter format Airbnb 
 - Lint on save
 - config for Babel In package.json 
+
 $ cd client 
 $ npm install axios@0.18.0 --save 
 $ npm install bootstrap@4.3.1 --save 
